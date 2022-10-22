@@ -40,7 +40,7 @@ namespace Core.UI
             bossNameText.color = new Color(1, 1, 1, 0);
             DOTween.Sequence()
                 .Append(bossNameText.DOFade(1.0f, 0.5f))
-                .AppendInterval(2.0f)
+                .AppendInterval(5.0f)
                 .Append(bossNameText.DOFade(0.0f, 0.5f));
         }
     }
