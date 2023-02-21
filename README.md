@@ -1,4 +1,4 @@
-# HollowKnightBT
+# Hollow Knight Behavior Tree
  使用行为树复刻空洞骑士BOSS的战斗AI
 
 行为树实现
